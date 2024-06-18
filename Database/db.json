@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "5004",
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "password": "riya"
+    },
+    {
+      "id": "1ad1",
+      "name": "khushi",
+      "email": "khushi@gmail.com",
+      "password": "khushi"
+    },
+    {
+      "id": "b7c8",
+      "name": "diya",
+      "email": "diya@gmail.com",
+      "password": "diys"
+    },
+    {
+      "id": "1c35",
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "password": "aman"
+    },
+    {
+      "id": "0a68",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "raj"
+    },
+    {
+      "id": "d1dd",
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "john"
+    },
+    {
+      "id": "c2b5",
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "john"
+    },
+    {
+      "id": "9d71",
+      "name": "siya",
+      "email": "siya@gmail.com",
+      "password": "siya"
+    }
+  ]
+}
