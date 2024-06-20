@@ -48,5 +48,61 @@
       "email": "siya@gmail.com",
       "password": "siya"
     }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Noida sector 40",
+      "contact": "1234567899",
+      "id": "1"
+    },
+    {
+      "name": "Burger King",
+      "address": "Chandigarh sector 27",
+      "contact": 1234567890,
+      "id": "2"
+    },
+    {
+      "name": "Pizza From Mexico",
+      "address": "Ludhiana, Punjab",
+      "contact": "1234567899",
+      "id": "3"
+    },
+    {
+      "id": "9dfa",
+      "name": "Dominoz",
+      "address": "Ludhiana",
+      "contact": 1234567867
+    },
+    {
+      "id": "df73",
+      "name": "snackers",
+      "address": "ludhiana",
+      "contact": "985678124"
+    },
+    {
+      "id": "eaf2",
+      "name": "Eventify",
+      "address": "delhi",
+      "contact": "987654678"
+    },
+    {
+      "id": "bb25",
+      "name": "Burger King",
+      "address": "Noida sector 40",
+      "contact": "987654678"
+    },
+    {
+      "id": "11a6",
+      "name": "Burger King",
+      "address": "Ludhiana, Punjab",
+      "contact": "9876678945"
+    },
+    {
+      "id": "9af2",
+      "name": "KFC",
+      "address": "Chandigarh sector 27",
+      "contact": "9876897654"
+    }
   ]
 }
